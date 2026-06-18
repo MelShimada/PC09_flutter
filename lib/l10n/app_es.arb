@@ -1,0 +1,12 @@
+{
+  "@@locale": "es",
+  "helloWorld": "Hola Mundo",
+  "lanceLivre": "Tiro libre",
+  "doisPontos": "Dos puntos",
+  "tresPontos": "Tres puntos",
+  "voltarLance": "Deshacer movimiento",
+  "time1" : "Equipo 1",
+  "time2" : "Equipo 2",
+  "appTitle" : "PC 09"
+
+}

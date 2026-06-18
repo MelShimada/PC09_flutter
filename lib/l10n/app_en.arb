@@ -1,0 +1,11 @@
+{
+    "@@locale": "en",
+    "helloWorld": "Hello World",
+    "lanceLivre": "Free throw",
+    "doisPontos": "Two points",
+    "tresPontos": "Three points",
+    "voltarLance": "Undo move",
+    "time1" : "Team 1",
+    "time2" : "Team 2",
+    "appTitle" : "PC 09"
+}
